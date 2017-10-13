@@ -1,0 +1,7 @@
+.col, .col.md-1, .col-md-8, .col-md-6, .col-md-4, .ml-auto, .col-md-9, .col-md-6, .col-md-3
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: pink;
+	border: 1px solid red;
+}
